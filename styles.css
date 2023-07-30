@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+.main{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap:wrap;
+}
+.t-1{
+	width:70px;
+	height:70px;
+	background-color:green;
+	border: none;
+}
+
+.t-2{
+	width:70px;
+	height:70px;
+	background-color:red;
+	border: none;
+}
+
+.t-3{
+ width:70px;
+	height:70px;
+	background-color:blue;
+	border: none;
+}
+	
